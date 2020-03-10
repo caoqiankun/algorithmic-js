@@ -137,11 +137,19 @@ names.append("Jennifer");
 names.append("Bryan");
 names.append("Danny");
 
-names.front(); //指向第一个元素
-console.log(names.getElement());
-names.next()
-names.next()
+// names.front(); //指向第一个元素
+// console.log(names.getElement());
+// names.next()
+// names.next()
 // names.prev()
-console.log(names.getElement())
-console.log(names.currPos())
-console.log(names.toString())
+// console.log(names.getElement())
+// console.log(names.currPos())
+// console.log(names.toString())
+
+for(names.front();names.currPos()<names.length;names.next()){
+    console.log(names.getElement())
+}
+
+for(names.end(); names.currPos() >= 0; names.prev()) {
+    print(names.getElement());
+}

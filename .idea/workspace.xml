@@ -2,6 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="148d6fc1-4b40-423a-b0c8-bf49008aac34" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/dataStruAndAlg/js/films" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataStruAndAlg/js/.idea/function.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataStruAndAlg/js/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataStruAndAlg/js/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataStruAndAlg/js/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataStruAndAlg/js/function.txe" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/dataStruAndAlg/js/list.js" beforeDir="false" afterPath="$PROJECT_DIR$/dataStruAndAlg/js/list.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -15,14 +22,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/dataStruAndAlg/js/list.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="19" column="6" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
+            <state relative-caret-position="-320">
+              <caret line="74" column="28" selection-start-line="74" selection-start-column="28" selection-end-line="74" selection-end-column="28" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/dataStruAndAlg/js/films">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="318">
+              <caret line="19" column="24" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -36,11 +52,13 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/dataStruAndAlg/js/list.js" />
+        <option value="$PROJECT_DIR$/dataStruAndAlg/js/films" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="487" />
+    <option name="x" value="301" />
+    <option name="y" value="12" />
     <option name="width" value="983" />
     <option name="height" value="732" />
   </component>
@@ -55,6 +73,17 @@
             <path>
               <item name="algorithmic-js" type="b2602c69:ProjectViewProjectNode" />
               <item name="algorithmic-js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithmic-js" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithmic-js" type="462c0819:PsiDirectoryNode" />
+              <item name="dataStruAndAlg" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithmic-js" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithmic-js" type="462c0819:PsiDirectoryNode" />
+              <item name="dataStruAndAlg" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -107,18 +136,18 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2537000" />
+    <option name="totallyTimeSpent" value="3208000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="487" y="0" width="983" height="732" extended-state="0" />
+    <frame x="301" y="12" width="983" height="732" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.35487288" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.35487288" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32323232" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3905724" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -136,13 +165,34 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/dataStruAndAlg/js/.idea/misc.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dataStruAndAlg/js/.idea/modules.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dataStruAndAlg/js/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1020" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dataStruAndAlg/js/function.txe">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/dataStruAndAlg/js/list.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="19" column="6" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
+        <state relative-caret-position="-320">
+          <caret line="74" column="28" selection-start-line="74" selection-start-column="28" selection-end-line="74" selection-end-column="28" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dataStruAndAlg/js/films">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="19" column="24" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
         </state>
       </provider>
     </entry>

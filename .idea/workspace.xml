@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="148d6fc1-4b40-423a-b0c8-bf49008aac34" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/algorithmic-js.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dataStruAndAlg/js/list.js" beforeDir="false" afterPath="$PROJECT_DIR$/dataStruAndAlg/js/list.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -23,8 +19,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/dataStruAndAlg/js/list.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="11" column="24" lean-forward="true" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+            <state relative-caret-position="117">
+              <caret line="62" column="5" lean-forward="true" selection-start-line="62" selection-start-column="5" selection-end-line="62" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -41,9 +37,8 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="255" />
-    <option name="y" value="18" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="623" />
     <option name="width" value="983" />
     <option name="height" value="733" />
   </component>
@@ -58,17 +53,6 @@
             <path>
               <item name="algorithmic-js" type="b2602c69:ProjectViewProjectNode" />
               <item name="algorithmic-js" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="algorithmic-js" type="b2602c69:ProjectViewProjectNode" />
-              <item name="algorithmic-js" type="462c0819:PsiDirectoryNode" />
-              <item name="dataStruAndAlg" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="algorithmic-js" type="b2602c69:ProjectViewProjectNode" />
-              <item name="algorithmic-js" type="462c0819:PsiDirectoryNode" />
-              <item name="dataStruAndAlg" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -116,27 +100,27 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1583824895615</updated>
-      <workItem from="1583824896952" duration="319000" />
+      <workItem from="1583824896952" duration="800000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="319000" />
+    <option name="totallyTimeSpent" value="800000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="623" y="0" width="983" height="733" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.35487288" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" weight="0.3344538" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.3394958" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32343236" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32343236" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -152,8 +136,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/dataStruAndAlg/js/list.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="11" column="24" lean-forward="true" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+        <state relative-caret-position="117">
+          <caret line="62" column="5" lean-forward="true" selection-start-line="62" selection-start-column="5" selection-end-line="62" selection-end-column="5" />
         </state>
       </provider>
     </entry>

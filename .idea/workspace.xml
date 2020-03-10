@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="148d6fc1-4b40-423a-b0c8-bf49008aac34" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/dataStruAndAlg/js/films" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStruAndAlg/js/stack.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataStruAndAlg/js/.idea/function.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataStruAndAlg/js/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataStruAndAlg/js/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataStruAndAlg/js/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataStruAndAlg/js/function.txe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataStruAndAlg/js/list.js" beforeDir="false" afterPath="$PROJECT_DIR$/dataStruAndAlg/js/list.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -25,8 +19,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/dataStruAndAlg/js/list.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-320">
-              <caret line="74" column="28" selection-start-line="74" selection-start-column="28" selection-end-line="74" selection-end-column="28" />
+            <state relative-caret-position="308">
+              <caret line="150" column="1" lean-forward="true" selection-start-line="150" selection-start-column="1" selection-end-line="150" selection-end-column="1" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -35,15 +29,27 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/dataStruAndAlg/js/stack.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/dataStruAndAlg/js/films">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="318">
+            <state relative-caret-position="181">
               <caret line="19" column="24" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -53,14 +59,17 @@
       <list>
         <option value="$PROJECT_DIR$/dataStruAndAlg/js/list.js" />
         <option value="$PROJECT_DIR$/dataStruAndAlg/js/films" />
+        <option value="$PROJECT_DIR$/dataStruAndAlg/js/stack.js" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="301" />
-    <option name="y" value="12" />
+    <option name="x" value="434" />
     <option name="width" value="983" />
     <option name="height" value="732" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -136,22 +145,22 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3208000" />
+    <option name="totallyTimeSpent" value="3845000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="301" y="12" width="983" height="732" extended-state="0" />
+    <frame x="437" y="38" width="983" height="732" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.35487288" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20762712" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3905724" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3905724" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" visible="true" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.44949496" />
@@ -165,36 +174,29 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/dataStruAndAlg/js/.idea/misc.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dataStruAndAlg/js/.idea/modules.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dataStruAndAlg/js/.idea/workspace.xml">
+    <entry file="file://$PROJECT_DIR$/dataStruAndAlg/js/.idea/misc.xml" />
+    <entry file="file://$PROJECT_DIR$/dataStruAndAlg/js/.idea/modules.xml" />
+    <entry file="file://$PROJECT_DIR$/dataStruAndAlg/js/.idea/workspace.xml" />
+    <entry file="file://$PROJECT_DIR$/dataStruAndAlg/js/function.txe" />
+    <entry file="file://$PROJECT_DIR$/dataStruAndAlg/js/films">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1020" />
+        <state relative-caret-position="181">
+          <caret line="19" column="24" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
+        </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dataStruAndAlg/js/function.txe">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/dataStruAndAlg/js/list.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-320">
-          <caret line="74" column="28" selection-start-line="74" selection-start-column="28" selection-end-line="74" selection-end-column="28" />
+        <state relative-caret-position="308">
+          <caret line="150" column="1" lean-forward="true" selection-start-line="150" selection-start-column="1" selection-end-line="150" selection-end-column="1" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dataStruAndAlg/js/films">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="318">
-          <caret line="19" column="24" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/dataStruAndAlg/js/stack.js">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>

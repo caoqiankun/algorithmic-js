@@ -28,8 +28,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/dataStruAndAlg/js/stack.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="45" column="18" lean-forward="true" selection-start-line="45" selection-start-column="18" selection-end-line="45" selection-end-column="18" />
+            <state relative-caret-position="221">
+              <caret line="63" selection-start-line="63" selection-end-line="63" />
             </state>
           </provider>
         </entry>
@@ -56,9 +56,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="434" />
+    <option name="x" value="721" />
     <option name="width" value="983" />
-    <option name="height" value="732" />
+    <option name="height" value="735" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -112,12 +112,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Node.js.stack.js">
     <configuration name="list.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="list.js" working-dir="$PROJECT_DIR$/dataStruAndAlg/js">
+      <method v="2" />
+    </configuration>
+    <configuration name="stack.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="stack.js" working-dir="$PROJECT_DIR$/dataStruAndAlg/js">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.stack.js" />
         <item itemvalue="Node.js.list.js" />
       </list>
     </recent_temporary>
@@ -137,25 +141,25 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3891000" />
+    <option name="totallyTimeSpent" value="4566000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="333" y="0" width="983" height="732" extended-state="0" />
+    <frame x="721" y="0" width="983" height="735" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20762712" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20762712" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3905724" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3953099" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" visible="true" />
+      <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.44949496" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32343236" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -189,8 +193,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/dataStruAndAlg/js/stack.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="45" column="18" lean-forward="true" selection-start-line="45" selection-start-column="18" selection-end-line="45" selection-end-column="18" />
+        <state relative-caret-position="221">
+          <caret line="63" selection-start-line="63" selection-end-line="63" />
         </state>
       </provider>
     </entry>
